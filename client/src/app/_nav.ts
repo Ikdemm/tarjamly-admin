@@ -66,13 +66,13 @@ export const navItems: INavData[] = [
     ],
   },
   {
-    name: "Utilisateurs",
-    url: "/users",
+    name: "Translators",
+    url: "/translators",
     icon: "icon-user",
     children: [
       {
-        name: "Liste des Utilisateurs",
-        url: "/users/list",
+        name: "Translators' List",
+        url: "/translators/list",
         icon: "icon-list",
       }
     ],
